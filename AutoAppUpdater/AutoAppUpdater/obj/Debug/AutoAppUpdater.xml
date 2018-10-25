@@ -1,0 +1,39 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+AutoAppUpdater
+</name>
+</assembly>
+<members>
+<member name="F:AutoAppUpdater.Main.current_project_dir">
+	<summary>
+  For the future development of this program.
+  Developer can add a progress bar during installation of application.
+  Developer can add more applications they have developed in the _check_update(...) , _update(...) and install(...) subs.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:AutoAppUpdater.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:AutoAppUpdater.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:AutoAppUpdater.My.Resources.Resources.tasks">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AutoAppUpdater.My.Resources.Resources.team_coop_structure">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:AutoAppUpdater.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

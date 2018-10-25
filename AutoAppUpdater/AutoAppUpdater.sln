@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "AutoAppUpdater", "AutoAppUpdater\AutoAppUpdater.vbproj", "{65507D57-5AFD-45A9-866A-B01D63913306}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{F91D6807-B62D-47A7-971A-A3F684763EA8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65507D57-5AFD-45A9-866A-B01D63913306}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65507D57-5AFD-45A9-866A-B01D63913306}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65507D57-5AFD-45A9-866A-B01D63913306}.Debug|x86.ActiveCfg = Debug|x86
+		{65507D57-5AFD-45A9-866A-B01D63913306}.Debug|x86.Build.0 = Debug|x86
+		{65507D57-5AFD-45A9-866A-B01D63913306}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65507D57-5AFD-45A9-866A-B01D63913306}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65507D57-5AFD-45A9-866A-B01D63913306}.Release|x86.ActiveCfg = Release|x86
+		{65507D57-5AFD-45A9-866A-B01D63913306}.Release|x86.Build.0 = Release|x86
+		{F91D6807-B62D-47A7-971A-A3F684763EA8}.Debug|Any CPU.ActiveCfg = Debug
+		{F91D6807-B62D-47A7-971A-A3F684763EA8}.Debug|x86.ActiveCfg = Debug
+		{F91D6807-B62D-47A7-971A-A3F684763EA8}.Release|Any CPU.ActiveCfg = Release
+		{F91D6807-B62D-47A7-971A-A3F684763EA8}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
