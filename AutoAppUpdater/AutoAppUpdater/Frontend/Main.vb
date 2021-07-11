@@ -19,8 +19,8 @@ Public Class Main
     Dim new_file_name As String()
     Dim exe_file As New ArrayList
     Dim flag As Boolean = False
-    Dim _application As String
-    Dim update_flag As Boolean = False
+    Dim applicationName As String
+    Dim updateFlag As Boolean = False
 
     Private Sub ua_setup()
         '#update app setup
