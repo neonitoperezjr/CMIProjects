@@ -22,3 +22,9 @@ C:\Users\pene01\Documents\MyWorkfiles\Visual Studio 2010\Projects\AutoAppUpdater
 C:\Users\pene01\Documents\MyWorkfiles\Visual Studio 2010\Projects\AutoAppUpdater\AutoAppUpdater\bin\Debug\AutoAppUpdater.xml
 C:\Users\pene01\Documents\MyWorkfiles\Visual Studio 2010\Projects\AutoAppUpdater\AutoAppUpdater\obj\Debug\Interop.IWshRuntimeLibrary.dll
 C:\Users\pene01\Documents\MyWorkfiles\Visual Studio 2010\Projects\AutoAppUpdater\AutoAppUpdater\obj\Debug\AutoAppUpdater.vbproj.ResolveComReference.cache
+C:\Users\Neonito Perez\Documents\CMIProjects\AutoAppUpdater\AutoAppUpdater\bin\Debug\AutoAppUpdater.exe.config
+C:\Users\Neonito Perez\Documents\CMIProjects\AutoAppUpdater\AutoAppUpdater\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\Neonito Perez\Documents\CMIProjects\AutoAppUpdater\AutoAppUpdater\obj\Debug\AutoAppUpdater.vbproj.ResolveComReference.cache
+C:\Users\Neonito Perez\Documents\CMIProjects\AutoAppUpdater\AutoAppUpdater\obj\Debug\AutoAppUpdater.exe
+C:\Users\Neonito Perez\Documents\CMIProjects\AutoAppUpdater\AutoAppUpdater\obj\Debug\AutoAppUpdater.xml
+C:\Users\Neonito Perez\Documents\CMIProjects\AutoAppUpdater\AutoAppUpdater\obj\Debug\AutoAppUpdater.pdb
